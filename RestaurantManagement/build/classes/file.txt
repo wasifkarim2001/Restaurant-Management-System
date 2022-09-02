@@ -1,0 +1,14 @@
+        Restaurant management system:
+            Reference:10356
+        ---------------------------------
+        Meals:	130.00BDT
+        Drinks:	0.00BDT
+        Cost:	130.00BDT
+        ----------------------------------
+        Tax:	19.50BDT
+        SubTotal:	130.00BDT
+        Total:	149.50BDT
+        ----------------------------------
+        Date:31-08-2022
+        Time:19:40:15
+        Thank you for coming here
